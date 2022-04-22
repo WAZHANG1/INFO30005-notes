@@ -1,7 +1,6 @@
 # INFO30005-notes
 
-**Overview** </br>
-</br>
+### Overview </br>
 W02-1-MockupsWithXD </br>
 W02-2-Git </br>
 W02-2-terminal </br>
